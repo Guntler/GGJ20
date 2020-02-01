@@ -10,5 +10,5 @@ public class Song
         public double Delay;
     }
 
-    public List<NoteInfo> Notes;
+    public List<NoteInfo> Notes = new List<NoteInfo>();
 }
